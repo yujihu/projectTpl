@@ -1,0 +1,19 @@
+{
+  "name": "project template",
+  "version": "1.0.0",
+  "authors": [
+    "yujihu <yujihu@jd.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zepto": "~1.2.0",
+    "lib-flexible": "https://github.com/amfe/lib-flexible.git"
+  }
+}

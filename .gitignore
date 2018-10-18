@@ -1,0 +1,7 @@
+.idea
+build
+node_modules
+.sass-cache
+src/vendor/
+
+*.psd
